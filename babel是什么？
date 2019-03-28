@@ -1,0 +1,7 @@
+Babel是一个工具链，主要用于将ECMAScript2015+代码转化为当前和旧版浏览器或环境中的向后兼容的Javascript。一下是Babel可以为你做的事情：
+  1. 转换语法
+  2. 目标环境缺少Polyfill功能（通过@babel/polyfill）
+  3. 源代码转换
+  4. and more
+  
+  
